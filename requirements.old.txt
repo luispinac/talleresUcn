@@ -148,7 +148,10 @@ pyodbc==4.0.27
 pyOpenSSL==19.0.0
 pyparsing==2.4.2
 PyPDF2==1.26.0
+<<<<<<< HEAD
 Pyphen==0.9.5
+=======
+>>>>>>> 63212d30ff09aedf4d408f423bcc30810fd9279f
 pyreadline==2.1
 pyrsistent==0.15.4
 PySocks==1.7.1
